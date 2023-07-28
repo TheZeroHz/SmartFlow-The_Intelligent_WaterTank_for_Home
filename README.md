@@ -30,8 +30,9 @@ If you'd like to contribute to this project, feel free to open an issue or submi
 
 ## Contact
 
-For any questions or inquiries, you can reach me through my Facebook account:
-
-[Your Facebook Account](https://www.facebook.com/iamrakibulhasan/)
+For any questions or inquiries, you can reach us through Facebook:
+[ZeroHz](https://www.facebook.com/thezerohz/)
+[Rakib Hasan](https://www.facebook.com/iamrakibulhasan/)
+[Sudipa Saha](https://www.facebook.com/saha.dipa.00/)
 
 Let's make a difference together in water conservation and smart home technology!

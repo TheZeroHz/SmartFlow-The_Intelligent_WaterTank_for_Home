@@ -2,8 +2,7 @@
 This project can save your time and money both by conserving water, automated refill and supply management,integrating with existing smart home systems.
 # My Awesome Smart Water Tank Project
 
-[![Facebook]([https://img.icons8.com/color/48/000000/facebook-new.png](https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/307356143_812804999858214_8654818140019559456_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEUy3aPvVtKvBijfzCr4oHJRysXB9tGHl1HKxcH20YeXfgShDPyK6lIQIk2LOQbYuTeWmnF6lMfXDPckOqKuyBa&_nc_ohc=OQMj39snxwYAX9VMxtS&_nc_ht=scontent.fdac110-1.fna&oh=00_AfDddrI6VjIT0IpHa0-QIAMjPT_ZnZZojYB9qCG2ePHcsg&oe=64C9AEF7))](https://www.facebook.com/YourFacebookAccount)
-
+https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/307356143_812804999858214_8654818140019559456_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEUy3aPvVtKvBijfzCr4oHJRysXB9tGHl1HKxcH20YeXfgShDPyK6lIQIk2LOQbYuTeWmnF6lMfXDPckOqKuyBa&_nc_ohc=OQMj39snxwYAX9VMxtS&_nc_ht=scontent.fdac110-1.fna&oh=00_AfDddrI6VjIT0IpHa0-QIAMjPT_ZnZZojYB9qCG2ePHcsg&oe=64C9AEF7
 Welcome to the repository for my Smart Water Tank project! This project aims to develop an affordable and efficient smart water tank for home use. With this smart water tank, you can easily monitor your water usage, detect leaks, and contribute to water conservation efforts.
 
 ## Features

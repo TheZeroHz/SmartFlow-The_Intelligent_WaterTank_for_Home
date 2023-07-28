@@ -1,7 +1,7 @@
 # SmartFlow Version-1.0.0.1
-This library is successfully tested on  ESP-32 , ESP-8266 , ARDUIONO UNO & ARDUINO NANO  families....
+This library is successfully tested on  ESP-32 , ESP-8266 , ARDUIONO families....
 
 # Developed By
 
-<h2><b>Rakib Hasan</b></h2> 
-<h2><b>Sudipa Saha</b></h2>
+<h4><b>Rakib Hasan</b></h4> 
+<h4><b>Sudipa Saha</b></h4>

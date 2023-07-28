@@ -1,15 +1,10 @@
 # SmartFlow
 This project can save your time and money both by conserving water, automated refill and supply management,integrating with existing smart home systems.
-# My Awesome Smart Water Tank Project
-
-https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/307356143_812804999858214_8654818140019559456_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEUy3aPvVtKvBijfzCr4oHJRysXB9tGHl1HKxcH20YeXfgShDPyK6lIQIk2LOQbYuTeWmnF6lMfXDPckOqKuyBa&_nc_ohc=OQMj39snxwYAX9VMxtS&_nc_ht=scontent.fdac110-1.fna&oh=00_AfDddrI6VjIT0IpHa0-QIAMjPT_ZnZZojYB9qCG2ePHcsg&oe=64C9AEF7
-Welcome to the repository for my Smart Water Tank project! This project aims to develop an affordable and efficient smart water tank for home use. With this smart water tank, you can easily monitor your water usage, detect leaks, and contribute to water conservation efforts.
 
 ## Features
-
 - Real-time water level monitoring
 - Leak detection and alerts
-- Remote control and monitoring via a mobile app
+- Remote control and monitoring via mobile apps or web apps
 - Automated refill and supply management
 - Integration with smart home systems
 
@@ -37,6 +32,6 @@ If you'd like to contribute to this project, feel free to open an issue or submi
 
 For any questions or inquiries, you can reach me through my Facebook account:
 
-[Your Facebook Account](https://www.facebook.com/YourFacebookAccount)
+[Your Facebook Account](https://www.facebook.com/iamrakibulhasan/)
 
 Let's make a difference together in water conservation and smart home technology!

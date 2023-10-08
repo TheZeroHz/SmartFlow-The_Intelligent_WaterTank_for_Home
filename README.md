@@ -3,7 +3,7 @@ This project can save your time and money both by conserving water, automated re
 
 ## Features
 - Real-time water level monitoring
-- Leak detection and alerts
+- Water lack detection and alerts
 - Remote control and monitoring via mobile apps or web apps
 - Automated refill and supply management
 - Integration with smart home systems
